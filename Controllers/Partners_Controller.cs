@@ -22,7 +22,7 @@ namespace GET_API.Controllers
         public async Task<ActionResult<List<Partners_Table>>> GerPartners()
         {
 
-            return Ok(await _context.news_Tables.ToListAsync());
+            return Ok(await _context.partners_Tables.ToListAsync());
 
         }
     }

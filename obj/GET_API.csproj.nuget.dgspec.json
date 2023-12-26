@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\qwe\\GET_API.csproj": {}
+    "C:\\Users\\zhuginma\\Downloads\\qwe-main\\GET_API.csproj": {}
   },
   "projects": {
-    "D:\\qwe\\GET_API.csproj": {
+    "C:\\Users\\zhuginma\\Downloads\\qwe-main\\GET_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\qwe\\GET_API.csproj",
+        "projectUniqueName": "C:\\Users\\zhuginma\\Downloads\\qwe-main\\GET_API.csproj",
         "projectName": "GET_API",
-        "projectPath": "D:\\qwe\\GET_API.csproj",
+        "projectPath": "C:\\Users\\zhuginma\\Downloads\\qwe-main\\GET_API.csproj",
         "packagesPath": "C:\\Users\\zhuginma\\.nuget\\packages\\",
-        "outputPath": "D:\\qwe\\obj\\",
+        "outputPath": "C:\\Users\\zhuginma\\Downloads\\qwe-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhuginma\\AppData\\Roaming\\NuGet\\NuGet.Config",
